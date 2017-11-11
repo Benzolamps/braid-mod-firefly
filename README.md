@@ -13,7 +13,7 @@
 
 ### 视频链接 （Videos）：
 1. [哔哩哔哩](http://www.bilibili.com/video/av6596670/)
-2. [Youtube](https://www.youtube.com/watch?v=z2UrTp6Ury0&list=PLei_1QuvGErFhpSCTrVkPBJ51jID27lk_)
+2. [Youtube](https://www.youtube.com/playlist?list=PLei_1QuvGErFhpSCTrVkPBJ51jID27lk_)
 
 
 
