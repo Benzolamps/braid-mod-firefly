@@ -1,2 +1,4 @@
 # braid-mod-firefly
-This is my mod for the game Braid.
+
+###  [Steam版本](https://github.com/tangyuan9826/braid-mod-firefly-release/blob/master/firefly.rar?raw=true) 
+
