@@ -1,6 +1,6 @@
 # Braid MOD Firefly
 
-### 下载链接 （Download here）：[firefly.rar](https://github.com/tangyuan9826/braid-mod-firefly-release/blob/master/firefly.rar?raw=true) 
+### 下载链接 （Download here）：[firefly.rar](https://github.com/Benzolamps/braid-mod-firefly-release/blob/master/firefly.rar?raw=true) 
 
 ### 安装方法 （Installation）：
 1. 将压缩包解压到Braid的安装路径下（...\Steam\steamapps\common\Braid\）
